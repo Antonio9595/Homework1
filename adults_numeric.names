@@ -1,0 +1,16 @@
+
+age	                continuous	0, 100
+
+work_class 	        continuous	0, 7
+
+education_num	        continuous	0, 20
+
+marital_status	        continuous	0, 6
+
+occupation		continuous	0, 13
+
+race			continuous	0, 4
+
+sex			continuous	0, 1
+
+native_country		continuous	0, 40

@@ -1,0 +1,13 @@
+Country = America, Asia, Europe, Africa
+America = North_A, South_A, Central_A
+Asia = West_A, East_A
+Europe = West_E, East_E
+Africa =  North_Af, South_Af
+North_A = United-States, Canada, Outlying-US(Guam-USVI-etc), Mexico
+South_A = Columbia, Peru, Ecuador
+Central_A = Jamaica, Honduras, Guatemala, Cuba, Trinadad, Dominican-Republic, Puerto-Rico, El-Salvador, Haiti, Nicaragua
+West_A = Iran
+East_A = China, India, Taiwan, Philippines, Laos, Vietnam, Hong-Kong, Cambodia, Thailand, Japan
+West_E = Ireland, Scotland, Holand-Netherlands, Germany, England, France, Portugal, Italy
+East_E = Poland, Yugoslavia, Greece, Hungary
+South_Af = South-Africa

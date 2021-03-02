@@ -1,0 +1,3 @@
+2 6
+age education-num
+work-class marital-status occupation race sex native-country
